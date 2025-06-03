@@ -5,3 +5,4 @@
 
 #### Code example
 
+https://github.com/Adam-Etyang/SOLID-Design-principle/blob/main/Dependency%20inversion%20principle/email.java
