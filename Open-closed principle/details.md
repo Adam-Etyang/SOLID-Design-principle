@@ -19,4 +19,6 @@ Tested code doesn't need retesting
 
 #### Code examples
 
+https://github.com/Adam-Etyang/SOLID-Design-principle/blob/main/Open-closed%20principle/Rectangle.java
+
 
