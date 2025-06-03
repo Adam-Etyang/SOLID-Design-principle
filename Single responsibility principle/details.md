@@ -24,4 +24,5 @@ Methods with many parameters from different domains
 
 ## Code examples
 
+https://github.com/Adam-Etyang/SOLID-Design-principle/blob/main/Single%20responsibility%20principle/User.java
 
